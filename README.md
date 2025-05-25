@@ -1,2 +1,2 @@
 # Digitallockersystem
-A project on digital locker system using OOPs Java
+A Project on Digital Locker System using OOPs Java 
